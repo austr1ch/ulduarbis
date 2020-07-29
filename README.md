@@ -27,6 +27,27 @@
 
 ## Hard Mode
 
+### Holy Paladin
+|  Slot           | Name                                                                                   | Source                     |
+|-----------------|--------------------------------------------------------------------------------------- |----------------------------|
+| Head            | []()                                                                                   |                            |
+| Neck            | [Pendant of the Shallow Grave](https://wotlk.evowow.com/?item=45933)                   | Thorim 10                  |
+| Shoulders       | []()                                                                                   |                            |
+| Back            | [Drape of the Sullen Goddess](https://wotlk.evowow.com/?item=45486)                    | Freya 25                   |
+| Chest           | [Breastplate of the Devoted](https://wotlk.evowow.com/?item=45445)                     | XT-002 25                  |
+| Wrists          | [Bindings of Winter Gale](https://wotlk.evowow.com/?item=45460)                        | Hodir 25                   |
+| Hands           | [Gauntlets of the Thunder God](https://wotlk.evowow.com/?item=45928)                   | Thorim 10                  |
+| Waist           | []()                                                                                   |                            |
+| Legs            | []()                                                                                   |                            |
+| Feet            | []()                                                                                   |                            |
+| Finger          | [Fire Orchid Signet](https://wotlk.evowow.com/?item=45946)                             | Freya 10                   |
+| Finger          | []()                                                                                   |                            |
+| Trinket         | []()                                                                                   |                            |
+| Trinket         | []()                                                                                   |                            |
+| Main Hand       | [Constellus](https://wotlk.evowow.com/?item=45612)                                     | Hodir 25                   |
+| Off Hand        | [Wisdom's Hold](https://wotlk.evowow.com/?item=45470)                                  | Thorim 25                  |
+| Class/Ranged    | []()                                                                                   |                            |
+
 ### Template
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|--------------------------------------------------------------------------------------- |----------------------------|
@@ -46,4 +67,4 @@
 | Trinket         | []()                                                                                   |                            |
 | Main Hand       | []()                                                                                   |                            |
 | Off Hand        | []()                                                                                   |                            |
-| Totem           | []()                                                                                   |                            |
+| Class/Ranged    | []()                                                                                   |                            |
