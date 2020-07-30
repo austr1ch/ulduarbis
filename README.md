@@ -44,7 +44,7 @@
 | Finger          | []()                                                                                   |                            |
 | Trinket         | []()                                                                                   |                            |
 | Trinket         | []()                                                                                   |                            |
-| Main Hand       | [Constellus](https://wotlk.evowow.com/?item=45612)                                     | Hodir (25)                 |
+| Main Hand       | [Aesuga, Hand of the Ardent Champion](https://wotlk.evowow.com/?item=46035)            | Vezex (10)                 |
 | Off Hand        | [Wisdom's Hold](https://wotlk.evowow.com/?item=45470)                                  | Thorim (25)                |
 | Class/Ranged    | []()                                                                                   |                            |
 
