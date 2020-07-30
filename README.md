@@ -13,7 +13,7 @@
 | Back            | [Drape of the Spellweaver](https://wotlk.evowow.com/?item=46341)                       | Trash                      |
 | Chest           | [Chestguard of the Fallen God](https://wotlk.evowow.com/?item=45531)                   | Yogg-Saron (25)            |
 | Wrists          |                                                                                        |                            |
-| Hands           |                                                                                        |                            |
+| Hands           | [Runeshaper's Gloves](https://wotlk.evowow.com/?item=45239)                            | Iron Council (25)          |
 | Waist           | [Belt of the Fallen Wyrm](https://wotlk.evowow.com/?item=45151)                        | Razorscale (25)            |
 | Legs            | [Frostplate Greaves](https://wotlk.evowow.com/?item=45452)                             | Hodir (25)                 |
 | Feet            | [Treads of Destiny](https://wotlk.evowow.com/?item=45561)                              | Blacksmithing              |
