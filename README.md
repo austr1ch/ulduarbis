@@ -11,8 +11,8 @@
 | Neck            | [Pendant of the Somber Witness](https://wotlk.evowow.com/?item=46047)                  | Algalon (10)               |
 | Shoulders       | [Mantle of the Wayward Conqueror](https://wotlk.evowow.com/?item=45656)                | Yogg-Saron (25)            |
 | Back            | [Drape of the Spellweaver](https://wotlk.evowow.com/?item=46341)                       | Trash                      |
-| Chest           | [Chestguard of the Fallen God](https://wotlk.evowow.com/?item=45531)                   | Yogg-Saron (25)            |
-| Wrists          |                                                                                        |                            |
+| Chest           | [Robes of the Umbral Brute](https://wotlk.evowow.com/?item=45272)                      | Kologarn (25)              |
+| Wrists          | [Bracers of the Broodmother](https://wotlk.evowow.com/?item=45149)                     | Razorscale (25)            |
 | Hands           | [Runeshaper's Gloves](https://wotlk.evowow.com/?item=45239)                            | Iron Council (25)          |
 | Waist           | [Belt of the Fallen Wyrm](https://wotlk.evowow.com/?item=45151)                        | Razorscale (25)            |
 | Legs            | [Frostplate Greaves](https://wotlk.evowow.com/?item=45452)                             | Hodir (25)                 |
@@ -36,7 +36,7 @@
 | Back            | [Drape of the Sullen Goddess](https://wotlk.evowow.com/?item=45486)                    | Freya (25)                 |
 | Chest           | [Breastplate of the Devoted](https://wotlk.evowow.com/?item=45445)                     | XT-002 (25)                |
 | Wrists          | [Bindings of Winter Gale](https://wotlk.evowow.com/?item=45460)                        | Hodir (25)                 |
-| Hands           | [Gauntlets of the Thunder God](https://wotlk.evowow.com/?item=45928)                   | Thorim (10)                |
+| Hands           | [Pharos Gloves](https://wotlk.evowow.com/?item=45665)                                  | Algalon (25)               |
 | Waist           | []()                                                                                   |                            |
 | Legs            | []()                                                                                   |                            |
 | Feet            | [Treads of the False Oracle](https://wotlk.evowow.com/?item=45537)                     | Yogg-Saron (25)            |
