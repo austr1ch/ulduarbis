@@ -11,7 +11,7 @@
 | Neck            | [Pendant of the Somber Witness](https://wotlk.evowow.com/?item=46047)                  | Algalon (10)               |
 | Shoulders       | [Mantle of the Wayward Conqueror](https://wotlk.evowow.com/?item=45656)                | Yogg-Saron (25)            |
 | Back            | [Drape of the Spellweaver](https://wotlk.evowow.com/?item=46341)                       | Trash                      |
-| Chest           | [Robes of the Umbral Brute](https://wotlk.evowow.com/?item=45272)                      | Kologarn (25)              |
+| Chest           | [Chestguard of the Fallen God](https://wotlk.evowow.com/?item=45531)                   | Yogg-Saron (25)            |
 | Wrists          | [Bracers of the Broodmother](https://wotlk.evowow.com/?item=45149)                     | Razorscale (25)            |
 | Hands           | [Runeshaper's Gloves](https://wotlk.evowow.com/?item=45239)                            | Iron Council (25)          |
 | Waist           | [Belt of the Fallen Wyrm](https://wotlk.evowow.com/?item=45151)                        | Razorscale (25)            |
