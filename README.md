@@ -39,7 +39,7 @@
 | Hands           | [Gauntlets of the Thunder God](https://wotlk.evowow.com/?item=45928)                   | Thorim (10)                |
 | Waist           | []()                                                                                   |                            |
 | Legs            | []()                                                                                   |                            |
-| Feet            | []()                                                                                   |                            |
+| Feet            | [Treads of the False Oracle](https://wotlk.evowow.com/?item=45537)                     | Yogg-Saron (25)            |
 | Finger          | [Fire Orchid Signet](https://wotlk.evowow.com/?item=45946)                             | Freya (10)                 |
 | Finger          | []()                                                                                   |                            |
 | Trinket         | []()                                                                                   |                            |
